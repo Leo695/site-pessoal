@@ -11,7 +11,7 @@ O projeto vissa esatabelecer dados fitrados e bem estabelecidos para assim conse
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
-- O MVP tem como finalide resolver o problema dos acidentes de trânsito cuidados por erros logísticos.  
+- O MVP tem como finalide resolver o problema dos acidentes de trânsito causados por erros logísticos.  
 - Para hipótese foi necessário buscar dados de diversos lugares inclusive do observatório.  
 - Um MVP bem explicado com os dados e com oque foi proposto.
 
