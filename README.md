@@ -1,15 +1,7 @@
-markdownCopiar código
-# Site Pessoal
+Atualização do projeto 
 
-Este repositório contém o código-fonte do meu site pessoal.
+## Projeto Integrador do 3 Semestre 
 
-## Estrutura
+O projeto vissa esatabelecer dados fitrados e bem estabelecidos para assim conseguir ter oque o cliente pediu 
 
-```plaintext
-site-pessoal/
-│
-├── index.html
-├── styles/
-│   └── style.css
-└── scripts/
-    └── main.js
+
