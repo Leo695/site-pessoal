@@ -67,5 +67,4 @@ O projeto vissa esatabelecer dados fitrados e bem estabelecidos para assim conse
 - Fluxos ou protótipos  
 - Vídeo (MVP)
 
-https://www.youtube.com/watch?v=jkJjcBJ8dAo
 
