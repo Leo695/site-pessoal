@@ -50,7 +50,7 @@ O projeto visa esatabelecer dados fitrados e bem estabelecidos para assim conseg
 
 ## 📈 Métricas de Validação
 - 2 
-- Foi um feedback positivo com relação ao projeto 
+- Foi um feedback positivo em ralação ao que foi proposto até agora no projeto 
  
 
 ---
